@@ -21,8 +21,8 @@ The application focuses on core CRUD (Create, Read, Update, Delete) operations, 
 
 ## Usage
 
-**Adding a Task**: Fill in the task title, description, and due date, then click "Add Task".
-**Viewing Task**: All tasks will be displayed below the form. You can filter tasks by status.
-**Editing a Task**: Click the "Edit" button next to a task to populate the form with its details. After making changes, click "Add Task" to save.
-**Deleting a Task**: Click the "Delete" button next to a task to remove it.
-**Toggling Status**: Click the "Toggle Status" button to switch a task's status between Pending and Completed.
+- **Adding a Task**: Fill in the task title, description, and due date, then click "Add Task".
+- **Viewing Task**: All tasks will be displayed below the form. You can filter tasks by status.
+- **Editing a Task**: Click the "Edit" button next to a task to populate the form with its details. After making changes, click "Add Task" to save.
+- **Deleting a Task**: Click the "Delete" button next to a task to remove it.
+- **Toggling Status**: Click the "Toggle Status" button to switch a task's status between Pending and Completed.
