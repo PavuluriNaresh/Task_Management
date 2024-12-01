@@ -17,7 +17,7 @@ The application focuses on core CRUD (Create, Read, Update, Delete) operations, 
 
 - **Backend**: Flask (Python)
 - **Database**: SQLite
-- **Frontend**: HTML
+- **Frontend**: HTML,CSS,Java Script
 
 ## Usage
 
